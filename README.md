@@ -1,3 +1,5 @@
+I wasn't quite fast enough, but here's my site: https://jamstack2020.netlify.app/
+
 # Jamstack Template
 
 Deploy this site quick like a bunny! 🐰
